@@ -1,6 +1,3 @@
-# TASK 9 - Convert and store data to the database
+# RacingAPI
 
-Create models using peewee library. You have to decide how many models you have to create. Create SQLite db.
-Convert and store data from files to the database.
-
-Modify previous flask application with using db.
+Flask-RESTful Application for accessing the race leaderboard and information abou specific driver. Documentation swagger using flasgger. The Api has a version and format (json, xml) parameters.
